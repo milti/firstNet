@@ -1,0 +1,452 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 4332,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.618248,
+      "label": "positive"
+    }
+  },
+  "retrieved_url": "https://newsroom.ibm.com/Guerbet-and-IBM-Watson-Health-Announce-Strategic-Partnership-for-Artificial-Intelligence-in-Medical-Imaging-Liver",
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Watson Health",
+      "relevance": 0.955944
+    },
+    {
+      "text": "IBM Watson Health",
+      "relevance": 0.941493
+    },
+    {
+      "text": "liver cancer",
+      "relevance": 0.739023
+    },
+    {
+      "text": "Watson Imaging Care",
+      "relevance": 0.559205
+    },
+    {
+      "text": "IBM Watson image",
+      "relevance": 0.472631
+    },
+    {
+      "text": "Watson image analytics",
+      "relevance": 0.463201
+    },
+    {
+      "text": "Imaging Care Advisor",
+      "relevance": 0.442262
+    },
+    {
+      "text": "Watson Health plan",
+      "relevance": 0.415459
+    },
+    {
+      "text": "liver cancer diagnostics",
+      "relevance": 0.388724
+    },
+    {
+      "text": "secondary liver cancer",
+      "relevance": 0.378978
+    },
+    {
+      "text": "artificial intelligence",
+      "relevance": 0.369857
+    },
+    {
+      "text": "liver cancer cases",
+      "relevance": 0.360559
+    },
+    {
+      "text": "medical imaging",
+      "relevance": 0.346368
+    },
+    {
+      "text": "Watson Health technologies",
+      "relevance": 0.330717
+    },
+    {
+      "text": "interventional medical imaging",
+      "relevance": 0.284476
+    },
+    {
+      "text": "IBM Research team",
+      "relevance": 0.261955
+    },
+    {
+      "text": "diagnostic support tool",
+      "relevance": 0.25623
+    },
+    {
+      "text": "cancer death worldwide",
+      "relevance": 0.249379
+    },
+    {
+      "text": "joint development agreement",
+      "relevance": 0.242014
+    },
+    {
+      "text": "augmented intelligence",
+      "relevance": 0.231554
+    },
+    {
+      "text": "medical imaging worldwide",
+      "relevance": 0.230208
+    },
+    {
+      "text": "prior research innovations",
+      "relevance": 0.217438
+    },
+    {
+      "text": "fastest growing cause",
+      "relevance": 0.214364
+    },
+    {
+      "text": "PACS visualization systems",
+      "relevance": 0.21129
+    },
+    {
+      "text": "significant respective expertise",
+      "relevance": 0.204663
+    },
+    {
+      "text": "better assisting radiologists",
+      "relevance": 0.203916
+    }
+  ],
+  "entities": [
+    {
+      "type": "Company",
+      "text": "IBM Watson Health",
+      "relevance": 0.843824,
+      "count": 9
+    },
+    {
+      "type": "Company",
+      "text": "Guerbet",
+      "relevance": 0.544569,
+      "disambiguation": {
+        "subtype": [],
+        "name": "Guerbet",
+        "dbpedia_resource": "http://dbpedia.org/resource/Guerbet"
+      },
+      "count": 12
+    },
+    {
+      "type": "JobTitle",
+      "text": "Watson Imaging Care Advisor for Liver",
+      "relevance": 0.476432,
+      "count": 1
+    },
+    {
+      "type": "Company",
+      "text": "IBM",
+      "relevance": 0.437768,
+      "disambiguation": {
+        "subtype": [
+          "SoftwareLicense",
+          "OperatingSystemDeveloper",
+          "ProcessorManufacturer",
+          "SoftwareDeveloper",
+          "CompanyFounder",
+          "ProgrammingLanguageDesigner",
+          "ProgrammingLanguageDeveloper"
+        ],
+        "name": "IBM",
+        "dbpedia_resource": "http://dbpedia.org/resource/IBM"
+      },
+      "count": 5
+    },
+    {
+      "type": "JobTitle",
+      "text": "Watson Imaging Care Advisor",
+      "relevance": 0.427951,
+      "count": 1
+    },
+    {
+      "type": "Company",
+      "text": "IBM Watson",
+      "relevance": 0.369803,
+      "count": 2
+    },
+    {
+      "type": "Company",
+      "text": "Watson Health technologies",
+      "relevance": 0.303529,
+      "count": 1
+    },
+    {
+      "type": "HealthCondition",
+      "text": "liver disease",
+      "relevance": 0.282712,
+      "disambiguation": {
+        "subtype": [
+          "DiseaseOrMedicalCondition",
+          "DiseaseCause",
+          "RiskFactor",
+          "Disease"
+        ],
+        "name": "Liver disease",
+        "dbpedia_resource": "http://dbpedia.org/resource/Liver_disease"
+      },
+      "count": 1
+    },
+    {
+      "type": "Organization",
+      "text": "AI",
+      "relevance": 0.210946,
+      "disambiguation": {
+        "subtype": [],
+        "name": "The Art Institutes",
+        "dbpedia_resource": "http://dbpedia.org/resource/The_Art_Institutes"
+      },
+      "count": 1
+    },
+    {
+      "type": "JobTitle",
+      "text": "Vice President of Imaging",
+      "relevance": 0.210396,
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "France",
+      "relevance": 0.207693,
+      "disambiguation": {
+        "subtype": [
+          "Region",
+          "AdministrativeDivision",
+          "GovernmentalJurisdiction",
+          "FilmDirector",
+          "Country"
+        ],
+        "name": "France",
+        "dbpedia_resource": "http://dbpedia.org/resource/France"
+      },
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Villepinte",
+      "relevance": 0.19344,
+      "count": 1
+    },
+    {
+      "type": "Organization",
+      "text": "USA",
+      "relevance": 0.185612,
+      "disambiguation": {
+        "subtype": [
+          "Location",
+          "HumanLanguage",
+          "PoliticalDistrict",
+          "Region",
+          "AdministrativeDivision",
+          "Country",
+          "GovernmentalJurisdiction"
+        ],
+        "name": "Italy",
+        "dbpedia_resource": "http://dbpedia.org/resource/Italy"
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Cambridge",
+      "relevance": 0.182194,
+      "disambiguation": {
+        "subtype": [
+          "City"
+        ]
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Jessica Emond",
+      "relevance": 0.179017,
+      "count": 1
+    },
+    {
+      "type": "JobTitle",
+      "text": "Advisor",
+      "relevance": 0.177894,
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "United States.",
+      "relevance": 0.170671,
+      "disambiguation": {
+        "subtype": [
+          "Country"
+        ]
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Yves L’Epine",
+      "relevance": 0.16133,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "François Nicolas",
+      "relevance": 0.156241,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Anne Le Grand",
+      "relevance": 0.15514,
+      "count": 1
+    },
+    {
+      "type": "Company",
+      "text": "Euronext Paris",
+      "relevance": 0.155004,
+      "count": 1
+    },
+    {
+      "type": "Company",
+      "text": "NYSE",
+      "relevance": 0.154454,
+      "count": 1
+    },
+    {
+      "type": "JobTitle",
+      "text": "CEO",
+      "relevance": 0.153274,
+      "count": 1
+    },
+    {
+      "type": "JobTitle",
+      "text": "Chief Digital Officer",
+      "relevance": 0.150292,
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "United States",
+      "relevance": 0.13843,
+      "disambiguation": {
+        "subtype": [
+          "Region",
+          "AdministrativeDivision",
+          "GovernmentalJurisdiction",
+          "FilmEditor",
+          "Country"
+        ],
+        "name": "United States",
+        "dbpedia_resource": "http://dbpedia.org/resource/United_States"
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Israel",
+      "relevance": 0.13072,
+      "disambiguation": {
+        "subtype": [
+          "GovernmentalJurisdiction",
+          "FilmArtDirector",
+          "Country"
+        ],
+        "name": "Israel",
+        "dbpedia_resource": "http://dbpedia.org/resource/Israel"
+      },
+      "count": 1
+    },
+    {
+      "type": "EmailAddress",
+      "text": "Jessica.emond@ibm.com",
+      "relevance": 0.13072,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "83 percent",
+      "relevance": 0.13072,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "90 years",
+      "relevance": 0.13072,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "50%",
+      "relevance": 0.13072,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "8%",
+      "relevance": 0.13072,
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Cancer",
+      "relevance": 0.952098,
+      "dbpedia_resource": "http://dbpedia.org/resource/Cancer"
+    },
+    {
+      "text": "Health care",
+      "relevance": 0.828532,
+      "dbpedia_resource": "http://dbpedia.org/resource/Health_care"
+    },
+    {
+      "text": "Magnetic resonance imaging",
+      "relevance": 0.644723,
+      "dbpedia_resource": "http://dbpedia.org/resource/Magnetic_resonance_imaging"
+    },
+    {
+      "text": "Medicine",
+      "relevance": 0.619651,
+      "dbpedia_resource": "http://dbpedia.org/resource/Medicine"
+    },
+    {
+      "text": "Artificial intelligence",
+      "relevance": 0.577304,
+      "dbpedia_resource": "http://dbpedia.org/resource/Artificial_intelligence"
+    },
+    {
+      "text": "Oncology",
+      "relevance": 0.547731,
+      "dbpedia_resource": "http://dbpedia.org/resource/Oncology"
+    },
+    {
+      "text": "Liver",
+      "relevance": 0.537625,
+      "dbpedia_resource": "http://dbpedia.org/resource/Liver"
+    },
+    {
+      "text": "Hepatocellular carcinoma",
+      "relevance": 0.535172,
+      "dbpedia_resource": "http://dbpedia.org/resource/Hepatocellular_carcinoma"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.458502,
+      "label": "/health and fitness"
+    },
+    {
+      "score": 0.352286,
+      "label": "/health and fitness/disease/cancer"
+    },
+    {
+      "score": 0.323949,
+      "label": "/technology and computing"
+    }
+  ]
+}
